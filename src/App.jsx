@@ -6,7 +6,7 @@ import HeroSection from './components/HeroSection';
 import WorkFlow from './components/WorkFlow';
 import Navbar from './components/Navbar';
 import PricingSection from './components/PricingSection';
-import Testimonials from './components/testimonials';
+import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
 
 function App() {
