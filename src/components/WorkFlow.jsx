@@ -4,7 +4,7 @@ import { checklistItems } from "../constants";
 
 const WorkFlow = () => {
     return (
-        <div className="flex flex-col items-center mt-6 lg:mt-20">
+        <div className="flex flex-col items-center mt-6 lg:mt-20"id="workflow">
             <h1 className="mb-5 text-3xl sm:text-4xl lg:text-5xl text-center">Accelerate your <span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text">Coding Workflow.</span></h1>
             <div className="flex flex-wrap justify-center">
                 <div className="p-2 w-full lg:w-1/2">

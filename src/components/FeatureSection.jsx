@@ -2,7 +2,7 @@ import { features } from "../constants";
 
 const FeatureSection = () => {
   return (
-    <div>
+    <div id="features">
       <p className="my-5 text-2xl sm:text-3xl lg:text-4xl text-center bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text">Feature</p>
       <h1 className="mb-5 text-3xl sm:text-4xl lg:text-5xl text-center">Easily build<span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text">
         {" "} your code</span></h1>
