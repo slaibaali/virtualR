@@ -8,10 +8,10 @@ const HeroSection = () => {
             <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl"> Empower your creativity and bring your VR app ideas to life with our
                 intuitive development tools. Get started today and turn your imagination
                 into immersive reality!</p>
-            <div className="flex space-x-6 my-6 xs:flex-wrap xs:justify-center gap-5" >
+            <div className="flex space-x-6 my-6 xs:flex-col xs:justify-center gap-5 xs:space-x-0" >
                 <a
                     href="#"
-                    className="py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800">
+                    className="py-2 px-3 sm:px-5 rounded-md bg-gradient-to-r xs:text-center from-orange-500 to-orange-800 ">
                     Start for free
                 </a>
                 <a href="#" className="py-2 px-3 border rounded-md">
